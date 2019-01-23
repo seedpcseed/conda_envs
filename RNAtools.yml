@@ -1,0 +1,8 @@
+name: RNAtools
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - rnacode=0.3=0
+prefix: /home/hou/anaconda3/envs/RNAtools
+
