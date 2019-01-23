@@ -1,0 +1,47 @@
+name: amos
+channels:
+  - hcc
+  - biocore
+  - bioconda
+  - r
+  - defaults
+  - ursky
+  - conda-forge
+dependencies:
+  - amos=3.1.0=py35_3
+  - cd-hit=4.6.8=hfc679d8_2
+  - jellyfish=2.2.10=h2d50403_0
+  - jemalloc=4.5.0=0
+  - mummer=3.23=pl526_6
+  - perl-dbi=1.641=pl526_2
+  - perl-exporter-tiny=1.000000=pl526_0
+  - perl-list-moreutils=0.428=pl526_1
+  - perl-list-moreutils-xs=0.428=pl526_0
+  - perl-statistics-descriptive=3.0612=pl526_2
+  - perl-threaded=5.22.0=13
+  - perl-xml-parser=2.44=pl526h3a4f0e9_6
+  - perl-xsloader=0.24=pl526_0
+  - seqtk=1.3=ha92aebf_0
+  - spades=3.12.0=1
+  - ca-certificates=2018.03.07=0
+  - certifi=2018.8.24=py35_1
+  - expat=2.2.6=he6710b0_0
+  - libedit=3.1.20170329=h6b74fdf_2
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc=7.2.0=h69d50b8_2
+  - libgcc-ng=8.2.0=hdf63c60_1
+  - libstdcxx-ng=8.2.0=hdf63c60_1
+  - ncurses=6.1=hf484d3e_0
+  - openssl=1.0.2p=h14c3975_0
+  - perl=5.26.2=h14c3975_0
+  - pip=10.0.1=py35_0
+  - python=3.5.6=hc3d631a_0
+  - readline=7.0=h7b6447c_5
+  - setuptools=40.2.0=py35_0
+  - sqlite=3.25.2=h7b6447c_0
+  - tk=8.6.8=hbc83047_0
+  - wheel=0.31.1=py35_0
+  - xz=5.2.4=h14c3975_4
+  - zlib=1.2.11=ha838bed_2
+prefix: /home/shengwei/anaconda3/envs/amos
+

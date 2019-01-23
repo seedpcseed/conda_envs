@@ -1,0 +1,25 @@
+name: Trinity
+channels:
+  - dunnlab
+  - hcc
+  - biocore
+  - bioconda
+  - r
+  - defaults
+  - ursky
+  - conda-forge
+dependencies:
+  - freetype=2.5.5=2
+  - libgcc=7.2.0=h69d50b8_2
+  - libgcc-ng=7.2.0=hdf63c60_3
+  - libiconv=1.14=0
+  - libpng=1.6.27=0
+  - libstdcxx-ng=7.2.0=hdf63c60_3
+  - libxml2=2.9.4=0
+  - zlib=1.2.8=3
+  - fontconfig=2.12.1=0
+  - openjdk=1.8.0.102=13
+  - perl=5.22.2.1=0
+  - trinity=2.6.5=pl522hf484d3e_0
+prefix: /home/shengwei/anaconda3/envs/Trinity
+

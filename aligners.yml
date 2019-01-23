@@ -1,7 +1,12 @@
 name: aligners
 channels:
+  - hcc
+  - biocore
   - bioconda
+  - r
   - defaults
+  - ursky
+  - conda-forge
 dependencies:
   - blast=2.6.0=boost1.61_1
   - blast-legacy=2.2.22=1
@@ -32,5 +37,5 @@ dependencies:
     - ete3==3.1.1
     - numpy==1.14.0
     - six==1.11.0
-prefix: /home/hou/anaconda3/envs/aligners
+prefix: /home/shengwei/anaconda3/envs/aligners
 

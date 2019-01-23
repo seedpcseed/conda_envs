@@ -1,16 +1,20 @@
 name: phylogeny
 channels:
+  - hcc
+  - biocore
   - bioconda
+  - r
   - defaults
+  - ursky
+  - conda-forge
 dependencies:
   - mafft=7.313=0
   - raxml=8.2.10=0
   - seqan_tcoffee=1.13.3=1
-  - trimal=1.4.1=0
   - bzip2=1.0.6=h9a117a8_4
   - libgcc=7.2.0=h69d50b8_2
   - libgcc-ng=7.2.0=h7cc24e2_2
   - libstdcxx-ng=7.2.0=h7a57d05_2
   - zlib=1.2.8=3
-prefix: /home/hou/anaconda3/envs/phylogeny
+prefix: /home/shengwei/anaconda3/envs/phylogeny
 
