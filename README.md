@@ -1,5 +1,11 @@
 # conda_envs
 
+* To clone 
+
+```
+git clone https://github.com/housw/conda_envs.git
+```
+
 * To back up: 
 
 ```
