@@ -1,0 +1,17 @@
+name: blast-legacy
+channels:
+  - https://conda.anaconda.org/qiime2/label/r2017.6
+  - https://conda.anaconda.org/qiime2
+  - https://conda.anaconda.org/biocore
+  - https://conda.anaconda.org/bioconda
+  - hcc
+  - biocore
+  - bioconda
+  - r
+  - defaults
+  - ursky
+  - conda-forge
+dependencies:
+  - blast-legacy=2.2.26=1
+prefix: /home/shengwei/anaconda3/envs/blast-legacy
+
