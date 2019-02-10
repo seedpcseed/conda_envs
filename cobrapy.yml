@@ -1,35 +1,30 @@
 name: cobrapy
 channels:
-  - hcc
-  - biocore
-  - bioconda
-  - r
-  - defaults
-  - ursky
   - conda-forge
+  - defaults
 dependencies:
-  - ca-certificates=2018.8.24=ha4d7672_0
-  - certifi=2018.8.24=py27_1
-  - icu=58.2=hfc679d8_0
-  - libiconv=1.15=h470a237_3
-  - libxml2=2.9.8=h422b904_3
-  - libxslt=1.1.32=h88dbc4e_2
-  - lxml=4.2.4=py27hc9114bc_0
-  - openssl=1.0.2p=h470a237_0
-  - xz=5.2.4=h470a237_1
-  - libedit=3.1.20170329=h6b74fdf_2
-  - libffi=3.2.1=hd88cf55_4
-  - libgcc-ng=8.2.0=hdf63c60_1
-  - libstdcxx-ng=8.2.0=hdf63c60_1
-  - ncurses=6.1=hf484d3e_0
-  - pip=10.0.1=py27_0
-  - python=2.7.15=h1571d57_0
-  - readline=7.0=h7b6447c_5
-  - setuptools=40.2.0=py27_0
-  - sqlite=3.24.0=h84994c4_0
-  - tk=8.6.8=hbc83047_0
-  - wheel=0.31.1=py27_0
-  - zlib=1.2.11=ha838bed_2
+  - ca-certificates=2018.8.24
+  - certifi=2018.8.24
+  - icu=58.2
+  - libiconv=1.15
+  - libxml2=2.9.8
+  - libxslt=1.1.32
+  - lxml=4.2.4
+  - openssl=1.0.2p
+  - xz=5.2.4
+  - libedit=3.1.20170329
+  - libffi=3.2.1
+  - libgcc-ng=8.2.0
+  - libstdcxx-ng=8.2.0
+  - ncurses=6.1
+  - pip=10.0.1
+  - python=2.7.15
+  - readline=7.0
+  - setuptools=40.2.0
+  - sqlite=3.24.0
+  - tk=8.6.8
+  - wheel=0.31.1
+  - zlib=1.2.11
   - pip:
     - atomicwrites==1.2.1
     - attrs==18.2.0

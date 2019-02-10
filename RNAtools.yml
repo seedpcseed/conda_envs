@@ -1,13 +1,8 @@
 name: RNAtools
 channels:
-  - hcc
-  - biocore
   - bioconda
-  - r
   - defaults
-  - ursky
-  - conda-forge
 dependencies:
-  - rnacode=0.3=0
+  - rnacode=0.3
 prefix: /home/shengwei/anaconda3/envs/RNAtools
 

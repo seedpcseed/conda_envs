@@ -1,5 +1,9 @@
 name: VirHostMatcher-Net-env
 channels:
+  - https://conda.anaconda.org/qiime2/label/r2017.6
+  - https://conda.anaconda.org/qiime2
+  - https://conda.anaconda.org/biocore
+  - https://conda.anaconda.org/bioconda
   - hcc
   - biocore
   - bioconda

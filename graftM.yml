@@ -1,48 +1,43 @@
 name: graftM
 channels:
-  - anaconda
-  - hcc
-  - biocore
   - bioconda
-  - r
+  - anaconda
   - defaults
-  - ursky
-  - conda-forge
 dependencies:
-  - ca-certificates=2018.03.07=0
-  - certifi=2018.1.18=py27_0
-  - h5py=2.7.1=py27h2697762_0
-  - hdf5=1.10.1=h9caa474_1
-  - intel-openmp=2018.0.0=8
-  - libedit=3.1=heed3624_0
-  - libffi=3.2.1=hd88cf55_4
-  - libgcc=7.2.0=h69d50b8_2
-  - libgcc-ng=7.2.0=hdf63c60_3
-  - libgfortran-ng=7.2.0=hdf63c60_3
-  - libstdcxx-ng=7.2.0=hdf63c60_3
-  - mkl=2018.0.2=1
-  - mkl_fft=1.0.1=py27h3010b51_0
-  - mkl_random=1.0.1=py27h629b387_0
-  - ncurses=6.0=h9df7e31_2
-  - numpy=1.14.2=py27hdbf6ddf_1
-  - openssl=1.0.2o=h20670df_0
-  - pip=9.0.3=py27_0
-  - python=2.7.14=h1571d57_31
-  - readline=7.0=ha6073c6_4
-  - setuptools=39.0.1=py27_0
-  - six=1.11.0=py27h5f960f1_1
-  - sqlite=3.22.0=h1bed415_0
-  - tk=8.6.7=hc745277_3
-  - wheel=0.31.0=py27_0
-  - zlib=1.2.11=ha838bed_2
-  - diamond=0.9.19=1
-  - hmmer=3.1b2=3
-  - krona=2.7=0
-  - mafft=7.313=0
-  - orfm=0.6.1=0
-  - perl-threaded=5.22.0=10
-  - pplacer=1.1.alpha17=0
-  - prodigal=2.6.3=0
+  - ca-certificates=2018.03.07
+  - certifi=2018.1.18
+  - h5py=2.7.1
+  - hdf5=1.10.1
+  - intel-openmp=2018.0.0
+  - libedit=3.1
+  - libffi=3.2.1
+  - libgcc=7.2.0
+  - libgcc-ng=7.2.0
+  - libgfortran-ng=7.2.0
+  - libstdcxx-ng=7.2.0
+  - mkl=2018.0.2
+  - mkl_fft=1.0.1
+  - mkl_random=1.0.1
+  - ncurses=6.0
+  - numpy=1.14.2
+  - openssl=1.0.2o
+  - pip=9.0.3
+  - python=2.7.14
+  - readline=7.0
+  - setuptools=39.0.1
+  - six=1.11.0
+  - sqlite=3.22.0
+  - tk=8.6.7
+  - wheel=0.31.0
+  - zlib=1.2.11
+  - diamond=0.9.19
+  - hmmer=3.1b2
+  - krona=2.7
+  - mafft=7.313
+  - orfm=0.6.1
+  - perl-threaded=5.22.0
+  - pplacer=1.1.alpha17
+  - prodigal=2.6.3
   - pip:
     - biom-format==2.1.6
     - biopython==1.71
