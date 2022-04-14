@@ -1,3 +1,4 @@
+name: metacarvel
 channels:
   - conda-forge
   - bioconda
