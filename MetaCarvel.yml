@@ -137,6 +137,11 @@ dependencies:
   - wheel=0.32.1
   - xz=5.2.4
   - zlib=1.2.11
+  - pandas>=0.23.4
+  - biopython>=1.73
+  - packaging
+  - bedtools>=2.2.3
+  - samtools
   - pip:
     - atomicwrites==1.2.1
     - attrs==18.2.0
