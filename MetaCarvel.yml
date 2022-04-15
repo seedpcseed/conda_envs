@@ -1,4 +1,4 @@
-name: metacarvel
+name: MetaCarvel
 channels:
   - conda-forge
   - bioconda
@@ -148,5 +148,5 @@ dependencies:
     - pluggy==0.7.1
     - py==1.7.0
     - pytest==3.8.2
-    - scandir==1.9.1
-
+    - scandir==1.9.0
+prefix: /home/shengwei/anaconda3/envs/MetaCarvel
