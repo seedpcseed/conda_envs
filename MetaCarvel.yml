@@ -142,6 +142,7 @@ dependencies:
   - packaging
   - bedtools>=2.2.3
   - samtools
+  - wget
   - pip:
     - atomicwrites==1.2.1
     - attrs==18.2.0
