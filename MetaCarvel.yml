@@ -121,7 +121,6 @@ dependencies:
   - py-boost=1.67.0
   - pyparsing=2.2.2
   - pyqt=5.9.2
-  - python=2.7.15
   - python-dateutil=2.7.3
   - pytz=2018.5
   - qt=5.9.6
